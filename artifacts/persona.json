@@ -1,0 +1,406 @@
+{
+  "habits": [
+    {
+      "claim": "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+      "message_id": 33,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+      "message_id": 77,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to take them to the park and play soccer with them. They're both really good at soccer.",
+      "message_id": 85,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+      "message_id": 97,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to cook, read, and spend time with my family.",
+      "message_id": 160,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to go on hikes with my family.",
+      "message_id": 176,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to dance salsa.",
+      "message_id": 199,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "message_id": 223,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I like sharks too! I love to go to the aquarium and see them.",
+      "message_id": 265,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to juggle balls, but I also like to juggle torches and knives.",
+      "message_id": 308,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Those sound like fun activities! I like to do a lot of the same things.",
+      "message_id": 376,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to go hiking and camping. I also enjoy going to football games and watching horror movies.",
+      "message_id": 387,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I like to watch old movies from my childhood. I also like to travel and take pictures.",
+      "message_id": 401,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I like to play open-world games, like Skyrim and Fallout.",
+      "message_id": 409,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+      "message_id": 420,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's so cool. I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies.",
+      "message_id": 441,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?",
+      "message_id": 445,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Me too. I love to read a good mystery novel.",
+      "message_id": 472,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Nice. I like to go fishing too. What kind of fish do you like to catch?",
+      "message_id": 493,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Those are both good fish. I like to catch catfish.",
+      "message_id": 495,
+      "speaker": "User 1",
+      "confidence": 0.65
+    }
+  ],
+  "personal_facts": [
+    {
+      "claim": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "message_id": 17,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I have a dog and a cat. They are my best friends.",
+      "message_id": 37,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm a children's librarian. I love my job!",
+      "message_id": 55,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Yes! I love reading to kids. It's the best part of my job!",
+      "message_id": 57,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I understand that. I'm also a single parent, but I'm lucky enough to have a great support system.",
+      "message_id": 81,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better.",
+      "message_id": 95,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm doing well, too. I just got done making a delicious meal for my family.",
+      "message_id": 144,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow.",
+      "message_id": 156,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to cook, read, and spend time with my family.",
+      "message_id": 160,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I love to go on hikes with my family.",
+      "message_id": 176,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's so cool! I also love animals. I have a cat and a dog.",
+      "message_id": 187,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "message_id": 223,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I know, I know. I've been meaning to, but I'm just too busy with my kids.",
+      "message_id": 240,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm sorry to hear that. My family is everything to me.",
+      "message_id": 244,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "No, I have not! I have always wanted to go though.",
+      "message_id": 267,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I have a brother and a sister.",
+      "message_id": 273,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I am close with my family. We are all really close.",
+      "message_id": 275,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I am doing well. I have been working as an online tutor for a while now and I really enjoy it.",
+      "message_id": 289,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That sounds like a lot of fun. I have always wanted to learn how to weld.",
+      "message_id": 299,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I am so glad that I have a day off today. I am not working tomorrow either. I am going to relax and take it easy.",
+      "message_id": 320,
+      "speaker": "User 1",
+      "confidence": 0.65
+    }
+  ],
+  "personality_traits": [
+    {
+      "claim": "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+      "message_id": 3,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm doing well, thanks for asking. What kind of things do you enjoy doing?",
+      "message_id": 31,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+      "message_id": 97,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's great! I love gardening too. What kind of plants do you have?",
+      "message_id": 107,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Really? What kind of business do you have?",
+      "message_id": 132,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm sure it is. I'm glad you're happy with your life.",
+      "message_id": 136,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "That's good to hear! I'm happy for you.",
+      "message_id": 138,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Me too! I'm so excited for the next book to come out.",
+      "message_id": 172,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Nice! What kind of photography are you into?",
+      "message_id": 205,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Happy Fourth of July! How are you celebrating today?",
+      "message_id": 316,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I agree! I'm excited to start diving.",
+      "message_id": 362,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Oh, that's cool. What kind of music do you play?",
+      "message_id": 485,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Nice. I like to go fishing too. What kind of fish do you like to catch?",
+      "message_id": 493,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Oh, that's cool. What kind of business?",
+      "message_id": 517,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "What kind of food do you like to cook?",
+      "message_id": 521,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "Oh, that's cool! What kind of blog do you write?",
+      "message_id": 581,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?",
+      "message_id": 625,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "It's going well! I just got a new job in academia and I'm really excited about it.",
+      "message_id": 642,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I'm doing great! Thanks for asking! I'm just excited to start my senior year of high school next week.",
+      "message_id": 661,
+      "speaker": "User 1",
+      "confidence": 0.65
+    },
+    {
+      "claim": "I like to make models of characters from video games and movies. I also like to make models of cars. My favorite kind of food is spicy Mexican food.",
+      "message_id": 696,
+      "speaker": "User 1",
+      "confidence": 0.65
+    }
+  ],
+  "communication_style": {
+    "avg_words": 11.06,
+    "punctuation_rate": 0.683,
+    "emoji_rate": 0.0,
+    "style_label": "balanced",
+    "sample_messages": [
+      {
+        "message_id": 1,
+        "text": "Hi! How are you?"
+      },
+      {
+        "message_id": 3,
+        "text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!"
+      },
+      {
+        "message_id": 7,
+        "text": "Really? That's so cool!  Do you still live there?"
+      },
+      {
+        "message_id": 9,
+        "text": "That's great.  Do you have any favorite places to visit in Portland?"
+      },
+      {
+        "message_id": 11,
+        "text": "That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out."
+      },
+      {
+        "message_id": 13,
+        "text": "Thanks for the recommendation!  I'm sure I'll love it."
+      }
+    ]
+  },
+  "meta": {
+    "method": "pattern+evidence extraction from chronological conversations",
+    "only_evidence_based": true,
+    "pipeline_version": "1.2",
+    "persona_speaker": "User 1"
+  }
+}
